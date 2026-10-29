@@ -2,7 +2,9 @@
 
 [Español](README.md)
 
-Five [Claude Code](https://code.claude.com/docs/en/sub-agents) subagents, with the hooks that restrict what they can run. They're generic versions of the ones I use in my projects.
+Five [Claude Code](https://code.claude.com/docs/en/sub-agents) subagents I designed and wrote for my projects, with the hooks that restrict what they can run. This repository has their generic versions.
+
+Made by Manuel de la Torre ([manoloto.com](https://manoloto.com)).
 
 > Personal project, not affiliated with Anthropic.
 
